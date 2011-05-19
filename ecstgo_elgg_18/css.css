@@ -1,0 +1,87 @@
+.content.smallest {
+	font-size: 60%;
+}
+
+.content.tiny {
+	font-size: 45%;
+}
+
+.content hr {
+	margin-top: 2em;
+}
+
+.content.most-smallest {
+	font-size: 50%;
+}
+
+.content.left li,
+.content.left {
+	text-align: left;
+}
+
+.content.right li,
+.content.right {
+	text-align: right;
+}
+
+.block {
+	display: block;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+/* Padding */
+.pan{padding:0px}
+.prn, .phn{padding-right:0px}
+.pln, .phn{padding-left:0px}
+.ptn, .pvn{padding-top:0px}
+.pbn, .pvn{padding-bottom:0px}
+
+.pas{padding:7px}
+.prs, .phs{padding-right:7px}
+.pls, .phs{padding-left:7px}
+.pts, .pvs{padding-top:7px}
+.pbs, .pvs{padding-bottom:7px}
+
+.pam{padding:25px}
+.prm, .phm{padding-right:25px}
+.plm, .phm{padding-left:25px}
+.ptm, .pvm{padding-top:25px}
+.pbm, .pvm{padding-bottom:25px}
+
+.pal{padding:50px}
+.prl, .phl{padding-right:50px}
+.pll, .phl{padding-left:50px}
+.ptl, .pvl{padding-top:50px}
+.pbl, .pvl{padding-bottom:50px}
+
+/* Margin */
+.man{margin:0px}
+.mrn, .mhn{margin-right:0px}
+.mln, .mhn{margin-left:0px}
+.mtn, .mvn{margin-top:0px}
+.mbn, .mvn{margin-bottom:0px}
+
+.mas{margin:7px}
+.mrs, .mhs{margin-right:7px}
+.mls, .mhs{margin-left:7px}
+.mts, .mvs{margin-top:7px}
+.mbs, .mvs{margin-bottom:7px}
+
+.mam{margin:25px}
+.mrm, .mhm{margin-right:25px}
+.mlm, .mhm{margin-left:25px}
+.mtm, .mvm{margin-top:25px}
+.mbm, .mvm{margin-bottom:25px}
+
+.mal{margin:50px}
+.mrl, .mhl{margin-right:50px}
+.mll, .mhl{margin-left:50px}
+.mtl, .mvl{margin-top:50px}
+.mbl, .mvl{margin-bottom:50px}

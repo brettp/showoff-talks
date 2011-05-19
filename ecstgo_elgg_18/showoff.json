@@ -1,0 +1,11 @@
+{
+	"name": "Elgg 1.8 Dev Intro",
+	"description": "ElggCamp Santiago 2011 - Developers",
+	"sections": [
+		{"section": "intro"},
+		{"section": "elgg_basics"},
+		{"section": "plugin_basics"},
+		{"section": "hands_on"},
+		{"section": "outro"}
+	]
+}
